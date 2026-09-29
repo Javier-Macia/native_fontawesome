@@ -1,0 +1,16 @@
+{
+  "name": "javierms/native_fontawesome",
+  "description": "Font Awesome 6 Free webfonts hosted 100% locally with high-priority CSS aggregation and zero external CDN requests.",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "JavierMS",
+      "role": "Maintainer"
+    }
+  ],
+  "keywords": ["drupal", "font awesome", "fontawesome", "fonts", "local", "privacy", "gdpr"],
+  "require": {
+    "drupal/core": "^10 || ^11 || ^12"
+  }
+}

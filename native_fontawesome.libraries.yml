@@ -1,0 +1,5 @@
+fontawesome:
+  version: 6.5.1
+  css:
+    base:
+      css/all.min.css: { minified: true, weight: -100 }

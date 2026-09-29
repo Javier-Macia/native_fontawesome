@@ -1,0 +1,6 @@
+name: 'Native Font Awesome'
+type: module
+description: 'Provides locally hosted fonts and styles for Font Awesome Free 6.5.1, without external CDN dependencies.'
+package: DropSense
+core_version_requirement: ^10 || ^11 || ^12
+version: 1.0.0
